@@ -3,7 +3,7 @@ import os
 from PIL import Image
 
 path = r"C:\Users\IsmartSiva\Downloads\Sravani_Signs\\"
-# search text files starting with the word "sales"
+# search text files starting with the word "sales" and other
 pattern = path + "Language\\"+ "*.jpeg"
 
 # List of the files that match the pattern
